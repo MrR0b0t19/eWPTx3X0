@@ -1,5 +1,4 @@
-# eWPTx3X0 - Guía de Preparación y Referencia para el eWPTX
-
+# eWPTx3X0 - Guía de Preparación y Referencia 
 Este repositorio es una guía estructurada para ayudarte a resolver el examen **eWPTX**. Aquí encontrarás un plan de ataque con referencias cruzadas a técnicas, CVEs y máquinas útiles de **Hack The Box (HTB)** para reforzar tus habilidades.
 
 ---
@@ -134,7 +133,7 @@ Este documento está diseñado con fines educativos. No contiene instrucciones c
 - https://ippsec.rocks/
 - https://forum.hackthebox.com/
 - https://github.com/0xdf
-- - https://github.com/MrR0b0t19
+- https://github.com/MrR0b0t19
 - https://book.hacktricks.xyz/
 
 ---
